@@ -1,0 +1,11 @@
+.clearfix:before,.clearfix:after {
+    content:"";
+    display: table;
+}
+.clearfix:after {
+   clear: both;
+}
+.clearfix {
+    *zoom: 1;
+} 
+/* 为了兼容性，因为ie6/7不能使用伪类，所以加上此行代码。 */

@@ -1,0 +1,21 @@
+渐变色类名（class）：
+    sunnymorning：
+        晴朗的早晨
+    rainyashville：
+        阴雨绵绵的什维尔
+    dustygrass：
+        灰蒙蒙的草
+    cloudyknoxville：
+        多云的诺克斯维尔
+    truesunset：
+        真正的日落
+    lemongate：
+        柠檬之门
+    itmeobranding：
+        Itmeo 品牌
+    starwine：
+        星之葡萄酒
+    deepblue：
+        深蓝色
+    redsalvation：
+        红色救赎

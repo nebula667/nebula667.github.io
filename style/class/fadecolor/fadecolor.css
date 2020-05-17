@@ -1,0 +1,79 @@
+/* 
+作者：韩浩天
+联系电话：18613028717
+版权所有，请勿在未经原作者同意的情况下复制，传播。
+*/
+.sunnymorning {
+    background-image: linear-gradient(
+        120deg,
+        #f6d365 0%,
+        #fda085 100%
+    );
+}
+.rainyashville {
+    background-image: linear-gradient(
+        to top,
+        #fbc2eb 0%,
+        #a6c1ee 100%
+    );
+}
+.dustygrass {
+    background-image: linear-gradient(
+        120deg,
+        #d4fc79 0%,
+        #96e6a1 100%
+    );
+}
+.cloudyknoxville {
+    background-image: linear-gradient(
+        120deg,
+        #fdfbfb 0%,
+        #ebedee 100%
+    );
+}
+.truesunset {
+    background-image: linear-gradient(
+        to right,
+        #fa709a 0%,
+        #fee140 100%
+    );
+}
+.lemongate {
+    background-image: linear-gradient(
+        to top,
+        #96fbc4 0%,
+        #f9f586 100%
+    );
+}
+.itmeobranding {
+    background-image: linear-gradient(
+        180deg,
+        #2af598 0%,
+        #009efd 100%
+    );
+}
+.starwine {
+    background-image: linear-gradient(
+        to right,
+        #b8cbb8 0%,
+        #b8cbb8 0%,
+        #b465da 0%,
+        #cf6cc9 33%,
+        #ee609c 66%,
+        #ee609c 100%
+    );
+}
+.deepblue {
+    background-image: linear-gradient(
+        to right,
+        #6a11cb 0%,
+        #2575fc 100%
+    );
+}
+.redsalvation {
+    background-image: linear-gradient(
+        to top,
+        #f43b47 0%,
+        #453a94 100%
+    );
+}
